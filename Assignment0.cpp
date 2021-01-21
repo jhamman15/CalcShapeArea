@@ -5,6 +5,7 @@
  * Date - 1/17/21
  *
  * Purpose - Create a program that calculates the hypotenuse of a triangle, the area of a trapezoid, and the volume of a rectangle
+ * This is a test ~Joseph O.
  *
  */
 
@@ -68,7 +69,7 @@ int main()
                     
                 break;
                     
-            case 2://calculate area of a trapezoid A = ½(b1+b2)h
+            case 2://calculate area of a trapezoid A = Â½(b1+b2)h
                 cout << "Please enter the length of one side of the trapezoid\n";
                 cin >> fTrapezoidB1;
                 cout << "Please enter the length of other side of the trapezoid\n";
